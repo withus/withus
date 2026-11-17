@@ -1,6 +1,6 @@
 # Sven Withus
 
-KI- und E-Commerce-Integrator aus NRW · CTO bei der Nanoform GmbH · [sven-withus.com](https://sven-withus.com)
+KI- und E-Commerce-Integrator aus NRW · [sven-withus.com](https://sven-withus.com)
 
 Ich entwickle und betreibe E-Commerce-Systeme seit 2008 und baue heute LLMs in diese Systeme ein.
 Meine Arbeitsweise ist AI-native: Ich plane, zerlege und prüfe, Agenten schreiben den Großteil des Codes,
